@@ -131,20 +131,6 @@ const zRemainders = (arr) => {
 // zRemainders
 //   ✓ takes in a mixed data array and returns an array of only the REMAINDERs of the numbers when divided by 3 (2 ms)
 
-// Test Suites: 1 passed, 1 total
-// Tests:       1 passed, 1 total
-//   arr.map(value => {
-//     if (typeof value === "number") {
-//       integer_arr.push(value)
-//     }
-//   })
-//   integer_arr.map(value => {
-//     remainders_arr.push((value % 3))
-//   })
-//   return remainders_arr
-// }
-// remainders(hodgepodge1)
-// remainders(hodgepodge2)
 
 // --------------------3) Create a function that takes in an array of numbers and returns the sum of all the numbers cubed.
 
