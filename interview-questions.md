@@ -73,6 +73,19 @@ action: "DELETE" location: /students/2
 
 5. As a developer, you are making an application to manage your to do list. Create 10 user stories that will help you get your application started. Read more about [user stories](https://www.atlassian.com/agile/project-management/user-stories).
 
-??????
+As a user, I want to see a home page that has lists of item.
+As a user, I want to click on an item to see more information about it.
+As a user, I want to search for an item.
+As a user, I want to have an access to go back to home page.
+As a user, I want to save item/s at a desired location.
+As a user, I want to see a button I can click to send feedbacks.
+As a user, I want to see button I can click which lets me send email.
+As a user, I want to see a button which does a form request.
+As a user, I want to see a button which lets me update form.
+As a user, I want to see a button which lets me delete form.
+As a user, I want to see a button to add items.
+As a user, I want to see an option to automaticly save entries if I cant finish tasks.
+
+
 
 Prioritize, scalable tasks, update, change, feedback, enabling collaberations, delete tasks, strategy or goal setting, discussion forum on projects, appointment tied to time and date. 
